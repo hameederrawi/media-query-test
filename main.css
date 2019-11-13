@@ -6,3 +6,11 @@
 
 }
 
+/* media queries */
+
+@media (max-width: 767px) {
+
+.mobile {
+    background-color: #0997d3;
+}
+}
