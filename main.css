@@ -13,4 +13,17 @@
 .mobile {
     background-color: #0997d3;
 }
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .tablet {
+        background-color: #bada55
+    }
+}
+
+@media (min-width: 1080px) and (max-width: 1200px) {
+    .pc {
+        background-color: #ff0000
+        
+    }
 }
