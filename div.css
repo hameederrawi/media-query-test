@@ -10,6 +10,8 @@
 @media (min-width: 768px) {
     .column {
 
-        background-color: #e84610
+        background-color: #e84610;
+        width: 30%;
+        margin: 10px;
     }
 }
