@@ -5,6 +5,16 @@
     width: 30%;
     background-color: #e84610;
     margin: 10px;
-    
+
+
+}
+.block {
+
+    width: 200px;
+    height: 50px;
+    border: 1px solid #000;
+    display: inline-block;
+    background-color: #ff0000;
+    margin: 10px;
 
 }
